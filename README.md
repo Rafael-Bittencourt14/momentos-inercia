@@ -1,7 +1,4 @@
-# Momentos de Inércia - V4 (modular)
-
-Esta é a versão V4 modularizada do seu projeto (foco didático).
-
+# Momentos de Inércia (modular)
 ## Rodar o exemplo 3.1
 No terminal, a partir da pasta onde está este pacote:
 
